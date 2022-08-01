@@ -1,0 +1,36 @@
+{
+    "mode": "game",
+    "status": "online",
+
+    "settings": {
+        "game": {
+            "name": "",
+            "applicationID": "",
+            "state": "",
+            "details": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "twitch": {
+            "name": "",
+            "applicationID": "",
+            "url": "",
+            "state": "",
+            "details": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        },
+        "spotify": {
+            "name": "",
+            "details": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": ""
+        }
+    }
+}
